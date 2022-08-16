@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Jeremy-Tesh/Jeremy-Tesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Web3 Engineer. Initially, I worked as a web and mobile developer. Later, I became captivated by blockchain technology and its enormous potential. I looked into the realm of dApps, but as my drive to learn grew, I wound up creating dApps on the Ethereum and Algorand blockchains. Now that I have a better understanding of the Web3 domain, I hope to put my extensive educational experience in the subject as well as my potent technical and programming skills to use.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
