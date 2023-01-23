@@ -2,7 +2,7 @@
 #### I am web3 | Software Engineer
 I am a Web3 Engineer. Initially, I worked as a web and mobile developer. Later, I became captivated by blockchain technology and its enormous potential. I looked into the realm of dApps, but as my drive to learn grew, I wound up creating dApps on the Ethereum and Algorand blockchains. Now that I have a better understanding of the Web3 domain, I hope to put my extensive educational experience in the subject as well as my potent technical and programming skills to use.
 
-Skills: Solidity, Javascript, Python C++, Java, Dart, Typescript  HTML/CSS,Bash, SQL, MongoDB. Ethereum, Algorand, React, Next, Hardhat, Truffle, Metamask, Algosigner Flask, Flutter, Graphql, Tailwind, Git, Github, Firebase, Netlify, Heroku
+Skills:Node, Solidity, Javascript, Python C++, Java, Dart, Typescript  HTML/CSS,Bash, SQL, MongoDB. Ethereum, Algorand, React, Next, Hardhat, Truffle, Metamask, Algosigner Flask, Flutter, Graphql, Tailwind, Git, Github, Firebase, Netlify, Heroku
 
 - ⚡ Fun fact: I love to play music 
 
